@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Aleff 😉
+### Olá! 😉
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleffmpc@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aleff-campos-088092299)
