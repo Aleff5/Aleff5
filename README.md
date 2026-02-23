@@ -1,8 +1,8 @@
-# Olá, eu sou o Áleff! 👋
+# Olá! 👋
 
 ### Computer Science Student | Software Engineer | AI Researcher
 
-Estudante de Ciência da Computação (7º semestre) focado em Engenharia de Software, Cloud e Inteligência Artificial. Especialista no desenvolvimento de sistemas escaláveis com **Go, Python e Java** e integração de APIs inteligentes. Pesquisador (PIBITI) em IA (Deep Learning e Machine Learning) com foco em soluções de alto impacto e explicabilidade.
+Estudante de Ciência da Computação focado em Engenharia de Software, Cloud e Inteligência Artificial. Especialista no desenvolvimento de sistemas escaláveis com **Go, Python e Java** e integração de APIs inteligentes. Pesquisador (PIBITI) em IA (Deep Learning e Machine Learning) com foco em soluções de alto impacto e explicabilidade.
 
 ---
 
